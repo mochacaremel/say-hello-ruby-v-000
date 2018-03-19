@@ -1,5 +1,5 @@
 # Build your say_hello method here
-require_relative './spec_helper'
+require_relative '../say_hello'
 
 describe "say_hello" do
 
