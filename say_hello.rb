@@ -1,6 +1,4 @@
 # Build your say_hello method here
-require_relative './say_hello.rb'
-
 describe "say_hello" do
 
   it 'accepts an argument of a name and prints out Hello with that Name' do
