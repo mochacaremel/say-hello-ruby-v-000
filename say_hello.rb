@@ -1,5 +1,5 @@
 # Build your say_hello method here
-require_relative '../say_hello.rb'
+require_relative '..spec/say_hello.rb'
 
 describe "say_hello" do
 
