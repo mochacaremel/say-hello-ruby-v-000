@@ -1,4 +1,4 @@
-require_relative '../say_hello.rb'
+require_relative '..spec/say_hello.rb'
 
 RSpec.configure do |config|
   # config here
